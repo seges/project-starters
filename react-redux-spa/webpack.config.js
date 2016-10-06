@@ -5,7 +5,7 @@ var HtmlWebpackPlugin = require('html-webpack-plugin');
 var childProcess = require('child_process');
 
 var PROD = process.env.NODE_ENV === "production" || false;
-var ENV = process.env.YE_ENV || "dev";
+var ENV = process.env.PROJECT_ENV || "dev";
 
 var projectConfig = require("./config/" + ENV);
 

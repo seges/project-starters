@@ -1,0 +1,16 @@
+{
+  "name": "generator-react-redux-spa",
+  "version": "1.0.0",
+  "main": "generators/app/index.js",
+  "files": [
+    "generators/app"
+  ],
+  "engines": {
+   "node": ">=4.0.0",
+   "iojs": ">=1.1.0"
+ },
+ "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}

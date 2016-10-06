@@ -1,0 +1,3 @@
+= React Redux SPA Yeoman Generator
+
+Once here might be our Yeoman Generator that works on top of 'react-redux-spa' template
